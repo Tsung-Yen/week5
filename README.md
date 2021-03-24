@@ -41,3 +41,12 @@
   *第八題:
   
   ![要求三 8](https://user-images.githubusercontent.com/76204731/112358129-013f1480-8d0b-11eb-98f6-d0537f4b6297.PNG)
+  
+  
+  *第九題:
+  
+  ![要求三 9](https://user-images.githubusercontent.com/76204731/112361660-9abbf580-8d0e-11eb-9bcc-ecffd14151c3.PNG)
+  
+  
+  
+
