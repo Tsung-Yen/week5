@@ -3,6 +3,7 @@
 要求三
 
 
+
   *第一題:
   
   ![要求三 1](https://user-images.githubusercontent.com/76204731/112357614-a9a0a900-8d0a-11eb-9538-aa0daab58265.PNG)
@@ -25,9 +26,9 @@
 
   *第五題:
   
-  ![要求三5](https://user-images.githubusercontent.com/76204731/112357969-d94fb100-8d0a-11eb-9fa0-071c6e0e5127.PNG)
-  
+  ![要求三5](https://user-images.githubusercontent.com/76204731/112653384-51dc7c00-8e89-11eb-9838-c55a892866b6.PNG)
 
+  
   *第六題:
   
   ![要求三 6](https://user-images.githubusercontent.com/76204731/112358051-eec4db00-8d0a-11eb-9724-9e0474f0f036.PNG)
@@ -46,6 +47,20 @@
   *第九題:
   
   ![要求三 9](https://user-images.githubusercontent.com/76204731/112361660-9abbf580-8d0e-11eb-9bcc-ecffd14151c3.PNG)
+  
+  
+  要求四
+  
+  第一題:
+  
+  ![要求四 1](https://user-images.githubusercontent.com/76204731/112653269-370a0780-8e89-11eb-8fc5-5930ccc77ea1.PNG)
+  
+  
+  第二題:
+  
+  ![要求四 2](https://user-images.githubusercontent.com/76204731/112653342-47ba7d80-8e89-11eb-99b8-6357daba934f.PNG)
+
+
   
   
   
